@@ -6,7 +6,7 @@ package pertemuan6;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 import java.util.LinkedList;
 import java.util.Queue;
