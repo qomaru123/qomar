@@ -7,7 +7,7 @@ package pertemuan2;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class perulangan_DO_WHILE {
     static int copys = 5; // VARIABEL UNTUK JUMBLAH KOPY
