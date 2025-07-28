@@ -6,14 +6,14 @@ package pertemuan4;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class methodprosedureparameter {
     public static void main(String[] args) {
         methodprosedureparameter mahasiswa = new methodprosedureparameter();
-        mahasiswa.simpan_nilai("yanto", 90, 80, 100);
-        mahasiswa.simpan_nilai("maridi", 89, 90, 100);
-        mahasiswa.simpan_nilai("painem", 96, 50, 100);
+        mahasiswa.simpan_nilai("Baruddin", 90, 80, 100);
+        mahasiswa.simpan_nilai("Sugeng", 89, 90, 100);
+        mahasiswa.simpan_nilai("Riadi", 96, 50, 100);
     }
     
     public void simpan_nilai(String nama, int ipa, int mtk, int struktur_data){
