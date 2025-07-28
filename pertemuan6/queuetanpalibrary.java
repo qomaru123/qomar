@@ -6,7 +6,7 @@ package pertemuan6;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class queuetanpalibrary {
     private int[] queue;
