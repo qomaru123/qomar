@@ -6,7 +6,7 @@ package pertemuan3;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 
 public class PBOplayer {
