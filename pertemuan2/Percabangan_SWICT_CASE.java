@@ -7,31 +7,31 @@ package pertemuan2;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class Percabangan_SWICT_CASE {
     public static void main(String[] args) {        
         
         char menu = '2';
         System.out.println("Menu Makanan : ");
-        System.out.println("1. Bebek Goreng");
-        System.out.println("2. Soto Bebek");
-        System.out.println("3. Bebek Tulang Lunak");
-        System.out.println("4. Bebek Bakar");
+        System.out.println("1. Lele");
+        System.out.println("2. Pecel");
+        System.out.println("3. Tempe Penyet");
+        System.out.println("4. Puyuh Goreng");
         System.out.println("terimakasih snda memilih menu no : " + menu);
         
         switch(menu){
             case '1':
-            System.out.println("Pilihan Anda : " + menu + ". Bebek Goreng (Rp.15.000)");
+            System.out.println("Pilihan Anda : " + menu + ". Lele (Rp.15.000)");
             break;
             case '2':
-            System.out.println("Pilihan Anda : " + menu + ". Soto Bebek (Rp.13.000)");
+            System.out.println("Pilihan Anda : " + menu + ". Pecel (Rp.13.000)");
             break;
             case '3':
-            System.out.println("Pilihan Anda : " + menu + ". Bebek Tulang Lunak (Rp.20.000)");
+            System.out.println("Pilihan Anda : " + menu + ". Tempe penyet (Rp.20.000)");
             break;
             case '4':
-            System.out.println("Pilihan Anda : " + menu + ". Bebek Bakar (Rp.25.000)");
+            System.out.println("Pilihan Anda : " + menu + ". Puyuh Goreng (Rp.25.000)");
             break;
         }
     }
