@@ -7,7 +7,7 @@ package pertemuan2;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class Array_1D {
     public static void main(String[] args) {
