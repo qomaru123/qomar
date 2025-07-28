@@ -6,20 +6,20 @@ package pertemuan4;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class methodfungsiparameter {
     public static void main(String[] args) {
         methodfungsiparameter mahasiswa = new methodfungsiparameter();
-        mahasiswa.simpan_nilai("yanto", 90, 78, 100);
-        mahasiswa.simpan_nilai("maridi", 80, 40, 100); 
+        mahasiswa.simpan_nilai("Baruddin", 90, 78, 100);
+        mahasiswa.simpan_nilai("Sugeng", 80, 40, 100); 
         
         methodfungsiparameter Kalkulator = new methodfungsiparameter();
-        double rata2_yanto = Kalkulator.hitung_rata2("yanto", 90, 78, 100);
-        System.out.println("Nilai Rata Rata nya Adalah " + rata2_yanto + "\n");
+        double rata2_Baruddin = Kalkulator.hitung_rata2("Baruddin", 90, 78, 100);
+        System.out.println("Nilai Rata Rata nya Adalah " + rata2_Baruddin + "\n");
         
-        double rata2_maridi = Kalkulator.hitung_rata2("maridi", 80, 40, 100);
-        System.out.println("Nilai Rata Rata nya Adalah " + rata2_maridi + "\n");
+        double rata2_Sugeng = Kalkulator.hitung_rata2("Sugeng", 80, 40, 100);
+        System.out.println("Nilai Rata Rata nya Adalah " + rata2_Sugeng + "\n");
         
     }
     
