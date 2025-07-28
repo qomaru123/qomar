@@ -7,11 +7,11 @@ package pertemuan2;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class perulangan_FOR {
     static int copys = 5; // VARIABEL UNTUK JUMBLAH KOPY
-    static String text = "Haii, Semoga Success Selalu!! ";
+    static String text = "Semangat Terus Yaa!! ";
     
     @SuppressWarnings("empty-statement")
     public static void main(String[] args) {;
