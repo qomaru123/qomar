@@ -6,13 +6,13 @@ package pertemuan4;
 
 /**
  *
- * @author Acer n15c1
+ * @author Asus A409
  */
 public class methodfungsi {
     public static void main(String[] args) {
         methodfungsi rata_rata = new methodfungsi();
         double nilai = rata_rata.rata_rata();
-        System.out.println("Rata Rata Nilai dari fungsi = " + nilai);
+        System.out.println("Rata Rata Nilai dari mata pelajaran = " + nilai);
     }
     
     // fungsi untuk menghitung nilai rata rata 
