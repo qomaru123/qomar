@@ -6,7 +6,7 @@ package pertemuan5;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 import java.util.Stack;
 
