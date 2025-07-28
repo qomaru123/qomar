@@ -7,7 +7,7 @@ package pertemuan2;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class Deklarasi_variabel {
 
@@ -17,7 +17,7 @@ public class Deklarasi_variabel {
 
     static int angka = 100;
     static double desimal = 6.8;
-    static String nama = "Ilham";
+    static String nama = "qomar";
     static boolean benar = true;
     static char karakter = 'A';
         
