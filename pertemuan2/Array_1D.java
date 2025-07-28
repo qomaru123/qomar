@@ -11,7 +11,7 @@ package pertemuan2;
  */
 public class Array_1D {
     public static void main(String[] args) {
-        String[] barang = {"Iidomie Seblak", "Indomie Korean Spaicy", "Indomie Goreng", "Indomie Pecel", "Indomie Sate", "Indomie Kare Bebek"};
+        String[] barang = {"Seblak", "Korean Spaicy", "Goreng", "Pecel", "Sate", "Kare Bebek"};
         System.out.println("Daftar produk toko : ");
         for(int i = 0; i<barang.length; i++){
             System.out.println((i+1) + ". " + barang[i]);
