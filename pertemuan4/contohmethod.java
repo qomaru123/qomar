@@ -6,7 +6,7 @@ package pertemuan4;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class contohmethod {
     public static void main(String[] args) {
