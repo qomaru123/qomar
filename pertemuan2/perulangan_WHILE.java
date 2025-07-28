@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class perulangan_WHILE {
     static int gaca =0;
