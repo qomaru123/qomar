@@ -6,7 +6,7 @@ package pertemuan7;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class Bubble_Shorting {
     public static void main(String[] args) {
