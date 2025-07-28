@@ -6,7 +6,7 @@ package pertemuan5;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class StackSederhana {
     private String[] stack;
@@ -33,7 +33,7 @@ public class StackSederhana {
     // Menambahkan data ke stack
     void push(String data) {
         if (isPenuh()) {
-            System.out.println("Maaf, data tidak bisa ditambahkan karena stack sudah penuh.");
+            System.out.println("Sorry, data tidak bisa ditambahkan karena stack sudah penuh.");
         } else {
             stack[top] = data;
             top++;
