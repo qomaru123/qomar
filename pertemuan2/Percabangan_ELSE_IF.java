@@ -7,7 +7,7 @@ package pertemuan2;
 
 /**
  *
- * @author Asus A409
+ * @author Asus 
  */
 public class Percabangan_ELSE_IF {
     public static void main(String[] args) {
